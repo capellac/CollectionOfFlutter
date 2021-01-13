@@ -1,4 +1,4 @@
 # ChatApp
 
-![](ezgif.com-optimize.gif)
+![](ChatApp.gif)
 

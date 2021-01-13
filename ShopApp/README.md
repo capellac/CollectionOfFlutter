@@ -1,5 +1,7 @@
 # shop_app
 
+![](ShopApp.gif)
+
 1. New Widgets
    * GridTile(...)
      * You may combine it with GridView(...) or GridView.builder(...)
