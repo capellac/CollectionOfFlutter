@@ -8,3 +8,4 @@ These projects helped me to gain understanding of Flutter.
 * [GreatPlaces](https://github.com/capellac/CollectionOfFlutter/tree/main/GreatPlaces)
 * [MealApp](https://github.com/capellac/CollectionOfFlutter/tree/main/MealApp)
 * [ShopApp](https://github.com/capellac/CollectionOfFlutter/tree/main/ShopApp)
+* [PhrasalVerbs](https://github.com/capellac/CollectionOfFlutter/tree/main/PhrasalVerbs)
