@@ -1,4 +1,7 @@
 # expense_planner  
+
+![](ExpensePlanner.gif)
+
 ### What i learned in this app?
 
 1. Some new Widgets  
